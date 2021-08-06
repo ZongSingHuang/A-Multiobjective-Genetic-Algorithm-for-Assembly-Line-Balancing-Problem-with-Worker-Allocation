@@ -2,5 +2,3 @@ A Multiobjective Genetic Algorithm for Assembly Line Balancing Problem with Work
 
 
 Research on Scheduling Problems in Machining and Assembly Processes using Multiobjective Evolutionary Algorithms, ZHANG, Wenqiang, 2011, https://waseda.repo.nii.ac.jp/?action=repository_action_common_download&item_id=19557&item_no=1&attribute_id=20&file_no=3
-111
-111
